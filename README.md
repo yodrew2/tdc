@@ -1,4 +1,4 @@
 tdc
 ===
 
-the darkness conjecture book manuscript
+the darkness conjecture book project
